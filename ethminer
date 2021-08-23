@@ -1,0 +1,2 @@
+lolMiner.exe --algo ETHASH --pool eth.2miners.com:2020 --user 0xAb9a7647f6f266C8dD77c41C1faaa0c4ce489B12.rig_1
+pause
